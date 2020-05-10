@@ -1,4 +1,4 @@
-def my_each ('Turtles', 'foot clan')
+def my_each (argument1, argument2)
   collection = [ ]
   my_each(collection) do |i|
   puts i
