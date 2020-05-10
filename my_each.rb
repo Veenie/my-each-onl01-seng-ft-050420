@@ -1,4 +1,4 @@
-def my_each (argument1, argument2)
+def my_each (argument)
   collection = [ ]
   my_each(collection) do |i|
   puts i
